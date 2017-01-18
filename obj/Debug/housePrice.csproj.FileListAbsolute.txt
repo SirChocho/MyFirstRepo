@@ -1,0 +1,6 @@
+c:\users\chocho\documents\visual studio 2015\Projects\exam20NoemEvening\housePrice\bin\Debug\housePrice.exe.config
+c:\users\chocho\documents\visual studio 2015\Projects\exam20NoemEvening\housePrice\bin\Debug\housePrice.exe
+c:\users\chocho\documents\visual studio 2015\Projects\exam20NoemEvening\housePrice\bin\Debug\housePrice.pdb
+c:\users\chocho\documents\visual studio 2015\Projects\exam20NoemEvening\housePrice\obj\Debug\housePrice.csprojResolveAssemblyReference.cache
+c:\users\chocho\documents\visual studio 2015\Projects\exam20NoemEvening\housePrice\obj\Debug\housePrice.exe
+c:\users\chocho\documents\visual studio 2015\Projects\exam20NoemEvening\housePrice\obj\Debug\housePrice.pdb
